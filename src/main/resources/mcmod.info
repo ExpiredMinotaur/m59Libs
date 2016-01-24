@@ -1,0 +1,16 @@
+[
+{
+  "modid": "m59Libs",
+  "name": "m59 Libs",
+  "description": "Base Mod for all mods by danielm59",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "danielm59.github.io",
+  "updateUrl": "",
+  "authorList": ["danielm59"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
