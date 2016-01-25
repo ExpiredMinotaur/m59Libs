@@ -29,7 +29,7 @@ group= "io.github.danielm59.m59Libs" // http://maven.apache.org/guides/mini/guid
 archivesBaseName = "m59Libs"
 
 minecraft {
-    version = "1.8.9-11.15.0.1718"
+    version = "1.8.9-11.15.0.1719"
     runDir = "eclipse"
 	replace '@VERSION@', project.version
     mappings = "stable_20"
