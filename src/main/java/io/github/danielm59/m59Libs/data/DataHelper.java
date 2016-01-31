@@ -8,7 +8,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.HashMap;
 
-public class IOHelper
+public class DataHelper
 {
 	@SuppressWarnings("rawtypes")
 	public static HashMap loadData(HashMap data, String filename)
