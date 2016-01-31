@@ -1,4 +1,4 @@
-package io.github.danielm59.m59Libs.utility;
+package io.github.danielm59.m59Libs.data;
 
 import java.io.File;
 import java.io.FileInputStream;

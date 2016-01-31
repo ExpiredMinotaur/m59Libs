@@ -1,8 +1,8 @@
 package io.github.danielm59.m59Libs;
 
+import io.github.danielm59.m59Libs.log.LogHelper;
 import io.github.danielm59.m59Libs.proxy.IProxy;
 import io.github.danielm59.m59Libs.reference.Reference;
-import io.github.danielm59.m59Libs.utility.LogHelper;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.Mod.EventHandler;

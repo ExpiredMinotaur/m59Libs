@@ -1,4 +1,4 @@
-package io.github.danielm59.m59Libs.utility;
+package io.github.danielm59.m59Libs.log;
 
 import org.apache.logging.log4j.Level;
 
